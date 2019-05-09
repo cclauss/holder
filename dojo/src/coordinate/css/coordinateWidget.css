@@ -1,0 +1,24 @@
+.coordinteWidget {
+   position: absolute;
+    width: 200px;
+    background: #acacac70;
+    z-index: 2;
+    text-align: left;
+    padding: 10px;
+    right: 20px;
+    top: 20px;
+    color: white;
+    line-height: 20px;
+   border-radius: 20px;
+   border: double #ffffffab 7px;
+}
+.coordinateWidgetTitle{
+   text-decoration: underline;
+}
+
+#spanLatitude{
+   font-weight: bold;
+}
+#spanLongitude{
+   font-weight: bold;
+}

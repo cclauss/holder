@@ -1,0 +1,24 @@
+.reversegeoWidget {
+    position: absolute;
+     width: 200px;
+     height: 150px;
+     background: #acacac70;
+     z-index: 2;
+     text-align: left;
+     padding: 10px;
+     right: 20px;
+     top: 120px;
+     color: white;
+     line-height: 20px;
+    border-radius: 20px;
+    border: double #ffffffab 7px;
+    overflow-y: scroll;
+ }
+ .reversegeoWidgetTitle{
+    text-decoration: underline;
+ }
+ 
+ #spanLocation{
+    font-weight: bold;
+ }
+ 
