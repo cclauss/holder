@@ -14,7 +14,7 @@ It provides a Gruntfile for build scenario using Dojo.
 * `npm run clean` - removes built files from `dist` directory
 * `npm run build` - run the Dojo build on application
 
-If you have [Python](https://www.python.org/) you can run `python -m SimpleHTTPServer` in same folder as application to run it in a browser.
+If you have [Python](https://www.python.org/) you can run `python2 -m SimpleHTTPServer` or `python3 -m http.server` in same folder as application to run it in a browser.
 
 # Notes
 For details on the Dojo build system, [review the Dojo documentation](http://dojotoolkit.org/documentation/tutorials/1.10/build/index.html).
